@@ -1,8 +1,3 @@
-akOas
-df
-asdf
-as
-dgegerge
 rg
 wer
 gw
