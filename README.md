@@ -15,3 +15,15 @@
 ### Задание 3
 
 [Commit 3](https://github.com/agralol/git-hw/network)
+
+# Домашнее задание к занятию "Что такое DevOps. CI/CD" - "`Chernov Vyacheslav`"
+
+### Задание 1
+
+![Jenkins config](images/2.jpg)
+![Jenkins Build](images/1.jpg)
+
+### Задание 2
+
+![Pipeline Config](images/4.jpg)
+![Pipeline Buil](images/3.jpg)
